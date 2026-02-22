@@ -1,2 +1,2 @@
 # ShantupaiJawl
-ShantupaiJawl offical Jawl digital documentation 
+ShantupaiJawl offical JawL digital documentation 
